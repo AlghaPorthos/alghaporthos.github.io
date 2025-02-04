@@ -81,5 +81,7 @@ Frequently appointed as Coordinator in team projects and exams, leading teams to
 ### Recommended Reading List
 
 _The Man Who Changed China: The Life and Legacy of Jiang Zemin_, by Robert Lawrence Kuhn《他改变了中国：江泽民传》罗伯特·劳伦斯·库恩（著）
+
 _Ordinary World_, by Yao Lu《平凡的世界》路遥（著）
+
 _Insight_, by Jing Chai 《看见》柴静（著）

@@ -21,7 +21,7 @@ This homepage is the academic homepage of Porthos Gaa-Lok Fu.
 - Outstanding Student Award, for school year of 22/23
 
 #### English Proficiency
-Passed CET-4 (600 points) and CET-6 (523 points) in the first year.
+Passed CET-4 (600) and CET-6 (523) in the first year.
 Fluent in spoken English, proficient in reading academic papers, and possess a certain level of academic writing skills.
 
 #### Programming Skills

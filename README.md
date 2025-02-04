@@ -1,4 +1,4 @@
-# Homepage of AlghaPorthos
+# Homepage of AlghaPorthos gaalokfu@gmail.com
 
 ## Greetings!
 
@@ -8,7 +8,7 @@ This homepage is the academic homepage of Porthos Gaa-Lok Fu.
 
 ### 1.1. Central South University 2022 - present (expected: 2026)
 
-#### 1.1.1. Degree (expected): Bachelor of Mechanical Engineering with Transportation
+#### 1.1.1. Degree (expected): Bachelor of Engineering (Mechanical Engineering with Transportation)
 
 #### 1.1.2. Ranking: 
 1/29, with Avg Score: 91.71/100 (till 15th Jan, 2025)
@@ -81,14 +81,25 @@ Served as the Vice Minister of the Publicity Department in the Student Union, fo
 
 Frequently appointed as Coordinator in team projects and exams, leading teams to efficiently complete tasks and achieve excellent results.
 
-## Y. Recommended Reading List and Channels
+### 8. Other Information
+
+#### 8.1. Working Language
+
+English (BrE prefered) and Chinese (simplified, mandarin).
+
+#### 8.2. Nationality and Residency
+
+Only People's Republic of China (Inland).
+
+
+## Y. Recommended Reading List and Channels (with no particular order)
 
 _The Man Who Changed China: The Life and Legacy of Jiang Zemin_, by Robert Lawrence Kuhn《他改变了中国：江泽民传》罗伯特·劳伦斯·库恩（著）
 
 _Ordinary World_, by Yao Lu《平凡的世界》路遥（著）
 
-_Insight_, by Jing Chai 《看见》柴静（著）
+_Insight_, by Jing Chai 《看见》柴静（著） 
 
-## Z. Friendly Links 
+[Links TV](https://www.youtube.com/@linksphotograph)
 
-(Links TV)[https://www.youtube.com/@linksphotograph]
+## Z. Friendly Links

@@ -21,7 +21,9 @@ This homepage is the academic homepage of Porthos Gaa-Lok Fu.
 - Corporate Scholarship (Tongguan 铜冠, by Tongling Nonferrous Metals Group), for school year of 23/24
 - Second-Class Scholarship of CSU, for school year of 23/24
 
-### 1.2.  Hangzhou Xijing High School 2019 - 2022
+### 1.2.  Hangzhou Xuejun High School (Xixi Campus) 2019 - 2022
+
+- OI experience, Second Prize for CSP-S 2019 and 2020, Second Prize for NOIP 2020, all in Zhejiang Province. See also: [Introduction from CCF-NOI](https://www.noi.cn/gynoi/jj/).
 
 ## 2. Research Experience
 Mentor: Dr Kan, School of Computer Science, CSU

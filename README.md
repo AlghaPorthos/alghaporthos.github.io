@@ -8,17 +8,18 @@ This homepage is the academic homepage of Porthos Gaa-Lok Fu.
 
 ### 1.1. Central South University 2022 - present (expected: 2026)
 
-#### 1.1.1. Degree (expected): Bachelor of Engineering (Mechanical Engineering with Transportation)
+#### 1.1.1. Degree (expected): **Bachelor of Engineering** (Mechanical Engineering with Transportation)
 
 #### 1.1.2. Ranking: 
 1/29, with Avg Score: 91.71/100 (till 15th Jan, 2025)
 
 #### 1.1.3. Awards:
 
-- National Scholarship, for school year of 22/23
-- First-Class Scholarship from the University, for school year of 22/23
-- Corporate Scholarship (Tongguan 铜冠, by Tongling Nonferrous Metals Group), for school year of 23/24
+- **National Scholarship**, for school year of 22/23
+- First-Class Scholarship of CSU, for school year of 22/23
 - Outstanding Student Award, for school year of 22/23
+- Corporate Scholarship (Tongguan 铜冠, by Tongling Nonferrous Metals Group), for school year of 23/24
+- Second-Class Scholarship of CSU, for school year of 23/24
 
 ### 1.2.  Hangzhou Xijing High School 2019 - 2022
 
@@ -29,7 +30,7 @@ Start: September 2023
 
 Weekly Commitment: Over 15 hours
 
-Focus Areas: Exploring cutting-edge models and methods in multimodal large models and their applications in downstream tasks.
+Focus Areas: Models and methods in multimodal large language models and their applications in downstream tasks.
 
 ## 3. Projects
 ### 3.1. "Object Retrieval for VQA with Outside Knowledge" (Third Author)

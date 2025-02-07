@@ -10,8 +10,7 @@ This homepage is the academic homepage of Porthos Gaa-Lok Fu.
 
 #### 1.1.1. Degree (expected): **Bachelor of Engineering** (Mechanical Engineering with Transportation)
 
-#### 1.1.2. Ranking: 
-1/29, with Avg Score: 91.71/100 (till 15th Jan, 2025)
+#### 1.1.2. Ranking: **1/29**, with avg Score: **91.71/100** (till 17th Jan, 2025)
 
 #### 1.1.3. Awards:
 

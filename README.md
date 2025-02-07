@@ -105,3 +105,9 @@ _Insight_, by Jing Chai 《看见》柴静（著）
 [Links TV](https://www.youtube.com/@linksphotograph)
 
 ## Z. Friendly Links
+
+[Central South University](https://www.csu.edu.cn/)
+
+[ISAB News & Updates](http://isab.run/)
+
+

@@ -83,13 +83,13 @@ Served as the Vice Minister of the Publicity Department in the Student Union, fo
 
 Frequently appointed as Coordinator in team projects and exams, leading teams to efficiently complete tasks and achieve excellent results.
 
-### 8. Other Information
+## 8. Other Information
 
-#### 8.1. Working Language
+### 8.1. Working Language
 
 English (BrE prefered) and Chinese (simplified, mandarin).
 
-#### 8.2. Nationality and Residency
+### 8.2. Nationality and Residency
 
 Only People's Republic of China (Inland).
 

@@ -36,7 +36,7 @@ Focus Areas: Models and methods in multimodal large language models and their ap
 ## 3. Projects
 ### 3.1. "Object Retrieval for VQA with Outside Knowledge" (Third Author)
 
-Proposed an object retrieval task for visual question answering using external knowledge, integrating LLM for enhanced image content understanding. Responsible for part of the training and the entire benchmark design. Currently submitted to CVPR 2025, still waiting for responce.
+Proposed an object retrieval task for visual question answering using external knowledge, integrating LLM for enhanced image content understanding. Responsible for part of the training and the entire benchmark design. Submitted to CVPR 2025, but currently rejected.
 
 ### 3.2. High-Resolution Remote Sensing Image VQA
 

@@ -38,21 +38,22 @@ Weekly Commitment: Over 15 hours
 Focus Areas: Models and methods in multimodal large language models and their applications in downstream tasks.
 
 ## 3. Projects
-### 3.1. "Object Retrieval for VQA with Outside Knowledge" (Third Author)
 
-Proposed an object retrieval task for visual question answering using external knowledge, integrating LLM for enhanced image content understanding. Responsible for part of the training and the entire benchmark design. Submitted to CVPR 2025, but currently rejected.
+### 3.1. High-Resolution Remote Sensing Image VQA
 
-### 3.2. High-Resolution Remote Sensing Image VQA
+Utilizing the A* algorithm to analyze weights for VQA. This project assesses the relevance between questions, options, and image slices via heatmap generator or vision grounding models, ultimately selecting the optimal slice for answering. (Preliminary completed, pending refinement and submission to _ACM Multimedia_, First Author or Student First Author).
 
-Utilizing the A* algorithm to analyze weights for VQA. This project assesses the relevance between questions, options, and image slices, ultimately selecting the optimal slice for answering. (Preliminary completed, pending refinement and submission, First Author or Student First Author).
+### 3.2. "Object Retrieval for VQA with Outside Knowledge" (Third Author)
+
+Proposed an object retrieval task for visual question answering using external knowledge, integrating LLM for enhanced image content understanding. Responsible for part of the training and the entire benchmark design. Submitted to _Pattern Recognition_.
 
 ### 3.3. Traffic Safety Assessment Project
 
 Evaluating non-motor vehicle road safety (e.g., passenger count, helmet usage) using deep learning methods and live camera feeds, in collaboration with Felix Wilhelm Siebert’s team at the Denmark Technical University. Currently in the data downloading and processing phase, with future training tasks planned.
 
-### 3.4. Traffic Technology Competition: "External Airbag" Project
+### 3.4. Traffic Technology Competition: Rail Track Status Detector
 
-Designing a mechanical structure that deploys using radar to absorb impact energy during collisions, reducing vehicle structural damage and protecting passengers. (Ongoing, Team Leader, University Competition in April 2025).
+(Ongoing, Team Leader)
 
 ## 4. Competitions (Selected)
 - Central South University Programming Competitions, first prize in both the 16th and 17th competition (2023 and 2024, respectively)

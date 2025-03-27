@@ -6,13 +6,15 @@ This homepage is the academic homepage of Porthos Gaa-Lok Fu.
 
 Porthos Gaa-Lok Fu is an undergraduate student from Central South University, currently majored in Mechanical Engineering with Transportation. His research interest is in deep learning, computer vision, and solving VQA tasks.
 
+He is also intersted in 3D printing, mechanical manufacturing.
+
 ## 1. Education Background
 
 ### 1.1. Central South University 2022 - present (expected: 2026)
 
 #### 1.1.1. Degree (expected): **Bachelor of Engineering** (Mechanical Engineering with Transportation)
 
-#### 1.1.2. Ranking: **1/29**, with avg Score: **91.71/100** (till 17th Jan, 2025)
+#### 1.1.2. Ranking: **2/29**, with avg. Score: **92.09/100** (till 27th Mar, 2025)
 
 #### 1.1.3. Awards:
 

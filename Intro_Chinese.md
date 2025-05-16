@@ -1,5 +1,3 @@
-# AlghaPorthos 的个人主页 gaalokfu@gmail.com
-
 ## 您好！
 
 本网页是Porthos Gaa-Lok Fu的学术主页。 [点击此处查看英文版本 Click for English version here](https://alghaporthos.github.io/Intro_English)
@@ -94,21 +92,4 @@ Porthos Gaa-Lok Fu是中南大学的一名本科生，目前主修交通设备�
 ### 8.2.国籍
 
 中华人民共和国（内地）。
-
-
-## Y. 推荐书籍和频道（无特定顺序）
-
-《他改变了中国：江泽民传》罗伯特·劳伦斯·库恩（著）
-
-《平凡的世界》路遥（著）
-
-《看见》柴静（著） 
-
-[Links TV](https://www.youtube.com/@linksphotograph)
-
-## Z. 友情链接
-
-[中南大学](https://www.csu.edu.cn/)
-
-[ISAB News & Updates](http://isab.run/)
 

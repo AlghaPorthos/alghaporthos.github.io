@@ -16,7 +16,7 @@ He is also intersted in 3D printing, mechanical manufacturing.
 
 #### 1.1.1. Degree (expected): **Bachelor of Engineering** (Mechanical Engineering with Transportation)
 
-#### 1.1.2. Ranking: **2/29**, with avg. Score: **92.09/100** (till 27th Mar, 2025)
+#### 1.1.2. Ranking: **2/29**, with avg. Score: **92.09/100** (till 16th May, 2025)
 
 #### 1.1.3. Awards:
 

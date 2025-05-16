@@ -1,4 +1,4 @@
-# Homepage of AlghaPorthos AlghaPorthos 的个人主页 gaalokfu@gmail.com 
+# Homepage of AlghaPorthos | AlghaPorthos 的个人主页 gaalokfu@gmail.com 
 
 ## Greetings!  您好！
 

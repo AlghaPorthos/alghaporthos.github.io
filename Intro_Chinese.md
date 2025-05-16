@@ -1,4 +1,4 @@
-## Porthos Gaa-Lok Fu的学术简介
+## Porthos Gaa-Lok Fu的学术简介 gaalokfu@gmail.com
 
 您好！本网页是Porthos Gaa-Lok Fu的学术简介。 [点击此处查看英文版本 Click for English version here](https://alghaporthos.github.io/Intro_English)
 

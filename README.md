@@ -6,7 +6,7 @@ Welcome to my homepage 欢迎来到我的主页
 
 ## For my Academic CV 我的学术自我介绍
 
-[English Version 英语版本](https://alghaporthos.github.io/Intro_Chinese)
+[English Version 英语版本](https://alghaporthos.github.io/Intro_English)
 [Chinese Version 中文版本](https://alghaporthos.github.io/Intro_Chinese)
 
 ## For my Research Statement 我的科研陈述

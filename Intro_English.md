@@ -100,21 +100,6 @@ English (BrE prefered) and Chinese (simplified, mandarin).
 
 Only People's Republic of China (Inland).
 
-
-## Y. Recommended Reading List and Channels (with no particular order)
-
-_The Man Who Changed China: The Life and Legacy of Jiang Zemin_, by Robert Lawrence Kuhn《他改变了中国：江泽民传》罗伯特·劳伦斯·库恩（著）
-
-_Ordinary World_, by Yao Lu《平凡的世界》路遥（著）
-
-_Insight_, by Jing Chai 《看见》柴静（著） 
-
-[Links TV](https://www.youtube.com/@linksphotograph)
-
-## Z. Friendly Links
-
-[Central South University](https://www.csu.edu.cn/)
-
 [ISAB News & Updates](http://isab.run/)
 
 

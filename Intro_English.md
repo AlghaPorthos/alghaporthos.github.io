@@ -1,5 +1,3 @@
-# Homepage of AlghaPorthos gaalokfu@gmail.com
-
 ## Academic Brief of Porthos Gaa-Lok Fu
 
 Greetings! This page is the academic brief of Porthos Gaa-Lok Fu. [Click for Chinese version here 点击此处查看中文版本](https://alghaporthos.github.io/Intro_Chinese)

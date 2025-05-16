@@ -2,7 +2,9 @@
 
 ## Greetings!
 
-This homepage is the academic homepage of Porthos Gaa-Lok Fu. 
+This homepage is the academic homepage of Porthos Gaa-Lok Fu. [Click for Chinese version here 点击此处查看中文版本](https://alghaporthos.github.io/Intro_Chinese)
+
+[Click for Research Statement](https://alghaporthos.github.io/research_statement)
 
 Porthos Gaa-Lok Fu is an undergraduate student from Central South University, currently majored in Mechanical Engineering with Transportation. His research interest is in deep learning, computer vision, and solving VQA tasks.
 

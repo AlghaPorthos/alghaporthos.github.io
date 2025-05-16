@@ -1,8 +1,8 @@
 # Homepage of AlghaPorthos gaalokfu@gmail.com
 
-## Greetings!
+## Academic Brief of Porthos Gaa-Lok Fu
 
-This homepage is the academic homepage of Porthos Gaa-Lok Fu. [Click for Chinese version here 点击此处查看中文版本](https://alghaporthos.github.io/Intro_Chinese)
+Greetings! This page is the academic brief of Porthos Gaa-Lok Fu. [Click for Chinese version here 点击此处查看中文版本](https://alghaporthos.github.io/Intro_Chinese)
 
 [Click for Research Statement](https://alghaporthos.github.io/research_statement)
 

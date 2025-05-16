@@ -1,6 +1,6 @@
-## 您好！
+## Porthos Gaa-Lok Fu的学术简介
 
-本网页是Porthos Gaa-Lok Fu的学术主页。 [点击此处查看英文版本 Click for English version here](https://alghaporthos.github.io/Intro_English)
+您好！本网页是Porthos Gaa-Lok Fu的学术简介。 [点击此处查看英文版本 Click for English version here](https://alghaporthos.github.io/Intro_English)
 
 [点击此处查看研究陈述 Click for Research Statement](https://alghaporthos.github.io/research_statement)
 

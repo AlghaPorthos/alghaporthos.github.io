@@ -53,7 +53,7 @@ Evaluating non-motor vehicle road safety (e.g., passenger count, helmet usage) u
 
 ### 3.4. Traffic Technology Competition: Rail Track Status Detector
 
-(Ongoing, Team Leader)
+First prize of School Competition, Team Leader
 
 ## 4. Competitions (Selected)
 - Central South University Programming Competitions, first prize in both the 16th and 17th competition (2023 and 2024, respectively)
@@ -97,7 +97,3 @@ English (BrE prefered) and Chinese (simplified, mandarin).
 ### 8.2. Nationality and Residency
 
 Only People's Republic of China (Inland).
-
-[ISAB News & Updates](http://isab.run/)
-
-

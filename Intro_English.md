@@ -56,7 +56,7 @@ Evaluating non-motor vehicle road safety (e.g., passenger count, helmet usage) u
 First prize of School Competition, Team Leader
 
 ## 4. Competitions (Selected)
-- Central South University Programming Competitions, first prize in both the 16th and 17th competition (2023 and 2024, respectively)
+- Central South University Programming Competitions, first prize in 16th, 17th and 18th competition (2023, 2024 and 2025, respectively)
 - Group Programming Ladder Competition, third prize as individual (2024)
 - Commercial Elite Challenge: Innovation and Entrepreneurship Competition, 1st prize (2024)
 - Asia and Pacific Mathematical Contest in Modeling, third prize (2022)

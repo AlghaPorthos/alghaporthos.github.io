@@ -4,15 +4,21 @@
 
 Welcome to my homepage 欢迎来到我的主页
 
+Porthos Gaa-Lok Fu is an undergraduate student from Central South University, currently majored in Mechanical Engineering with Transportation. He has been accepted by Shenzhen International Graduate School of Tsinghua University. His research interest is in deep learning, computer vision, and solving VQA tasks.
+
+Porthos Gaa-Lok Fu是中南大学的一名本科生，目前主修交通设备与控制工程（机械类专业）。他已经被清华大学深圳国际研究生院录取。他的研究兴趣是深度学习（DL），计算机视觉（CV），以及视觉问答（VQA）任务。
+
+
+He is also intersted in 3D printing, mechanical manufacturing.
+
+他还对3D打印、机械设计制造感兴趣。
+
+
+
 ## For my Academic CV 我的学术自我介绍
 
 [English Version 英语版本](https://alghaporthos.github.io/Intro_English)
 [Chinese Version 中文版本](https://alghaporthos.github.io/Intro_Chinese)
-
-## For my Research Statement 我的科研陈述
-
-[English Version 英语版本](https://alghaporthos.github.io/research_statement)
-
 
 ## Y. Recommended Reading List and Channels (with no particular order) 推荐读物（无特定顺序）
 

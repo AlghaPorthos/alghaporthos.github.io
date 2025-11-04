@@ -1,4 +1,6 @@
-# Annual Album of 2024
+# 2024年年度照片 Annual Album of 2024
+
+本页面暂时仅以中文提供。 This page is currently Chinese ONLY.
 
 我自从大学以来，每年1月会评出我过去一年拍摄的10张我最喜爱的照片，记录我曾去过的地方。
 
